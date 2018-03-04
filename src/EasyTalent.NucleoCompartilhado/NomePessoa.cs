@@ -1,4 +1,4 @@
-﻿namespace EasyTalent.Dominio
+﻿namespace EasyTalent.NucleoCompartilhado
 {
     public class NomePessoa
     {

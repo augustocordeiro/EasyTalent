@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace EasyTalent.Dominio.Test
+namespace EasyTalent.NucleoCompartilhado.Test
 {
     [TestClass]
     public class NomePessoaTest
